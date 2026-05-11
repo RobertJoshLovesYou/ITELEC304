@@ -11,5 +11,5 @@
 ---
 
 ## 🛒 FINALS HANDS-ON QUIZ #3: Simple Online Product Display System
-🔗 [Open Project]
+🔗 [Open Project](https://github.com/RobertJoshLovesYou/ITELEC304Q3)
  
