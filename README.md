@@ -6,7 +6,7 @@ This repository contains my programming activities, hands-on quizzes
 
 # 📂 Projects
 
-## 🏦 HANDS-ON QUIZ #1: Simple Bank Account System
+## 🏦 HANDS-ON QUIZ #1: Simple Bank Account System [View Project Here]([PASTE_LINK_HERE](https://github.com/RobertJoshLovesYou/ITELEC304Q1/blob/main/banking/models.py))
 
 ---
 
