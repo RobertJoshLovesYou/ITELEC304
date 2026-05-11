@@ -6,7 +6,7 @@
 ---
 
 ## 🚗 FINALS HANDS-ON QUIZ #2: Simple Vehicle Management System
-🔗 [Open Project]
+🔗 [Open Project](https://github.com/RobertJoshLovesYou/ITELEC304Q2)
 
 ---
 
