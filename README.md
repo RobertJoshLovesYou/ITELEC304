@@ -1,7 +1,7 @@
 # 📂 Projects
 
 ## 🏦 HANDS-ON QUIZ #1: Simple Bank Account System
-🔗 [Open Project](https://github.com/RobertJoshLovesYou/ITELEC304Q1/blob/main/banking/models.py)
+🔗 [Open Project](https://github.com/RobertJoshLovesYou/ITELEC304Q1/tree/main)
 
 ---
 
